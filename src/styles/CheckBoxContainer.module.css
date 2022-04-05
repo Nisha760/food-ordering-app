@@ -1,0 +1,25 @@
+.container{
+    /* background-color:var(--light-blue); */
+    height: fit-content;
+    padding: 5px 10px;
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+}
+
+.container>div{
+    /* display: flex;
+    align-items: center; */
+    margin-right: 20px;
+    /* background-color: var(--light-blue); */
+    /* line-height: 20px;
+    vertical-align: top; */
+    /* position: relative; */
+}
+
+.container>div>label{
+    margin-right: 4px;
+    position: relative;
+    bottom: 2.5px;
+    
+}

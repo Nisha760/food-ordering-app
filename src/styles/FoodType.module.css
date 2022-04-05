@@ -1,0 +1,21 @@
+.container{
+    height: 100%;
+    width: 100%;
+    border-radius: 10px;
+    /* background-color:var(--light-grey); */
+}
+
+.category{
+    width: 100%;
+    height: 120px;
+    background-color: black;
+    color: white;
+    border-radius: 10px;
+    margin-bottom: 20px ;
+}
+
+.foodContainer{
+    width: 100%;
+    height: fit-content;
+    /* background-color: var(--light-grey); */
+} 
